@@ -1,0 +1,10 @@
+TaskFlow 3.0 aplica principios del modelo NIST de computación en la nube con una arquitectura basada en AWS.
+
+El proyecto usa:
+- EC2 para ejecución.
+- S3 para almacenamiento.
+- IAM para acceso.
+- VPC para red.
+- Lambda para funciones automatizadas.
+
+Busca demostrar cómo una plataforma puede escalar, proteger datos y mantenerse eficiente mediante servicios cloud.
