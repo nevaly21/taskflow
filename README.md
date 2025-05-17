@@ -38,6 +38,7 @@ TaskFlow3.0/
 ## Autores
 
 - Nelson Alexander Varón Barrera
+- Karen Daniela Sandoval Huertas
 
 ## Licencia
 
