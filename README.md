@@ -1,3 +1,5 @@
+![Portada TaskFlow](./portada-taskflow.png)
+
 # TaskFlow 3.0 - Proyecto SaaS
 
 TaskFlow 3.0 es una plataforma SaaS diseñada para optimizar la gestión de flujos de trabajo empresariales, combinando servicios cloud de AWS con un modelo de negocio de suscripción escalable.
