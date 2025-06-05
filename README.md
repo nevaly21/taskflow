@@ -28,6 +28,6 @@ Este proyecto es una simulación académica. No requiere instalación de depende
 
 ## Enlace a presentación
 
-[Próximamente: enlace a Gamma AI o PDF]
+[Ver presentación aquí](./presentacion/TaskFlow_Presentación.pdf)
 
 ---
